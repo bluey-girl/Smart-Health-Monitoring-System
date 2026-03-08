@@ -1,2 +1,15 @@
-# Smart-Health-Monitoring-System
-Java GUI application to monitor patient vital signs and provide health alerts.
+# Smart Health Monitoring System
+
+This Java GUI application monitors patient vital signs
+such as Heart Rate, SpO2, and Temperature.
+
+Features
+- Add multiple patients
+- Health status analysis
+- JTable record display
+- Delete patient
+- Save data to file
+
+Technologies
+Java
+Java Swing
